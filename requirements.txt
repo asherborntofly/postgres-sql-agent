@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-openai
+openai
+python-dotenv
+mcp
+loguru
+sqlalchemy
+psycopg2-binary
