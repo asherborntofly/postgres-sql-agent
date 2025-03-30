@@ -47,21 +47,16 @@ POSTGRES_DB=your_database
 
 ### Usage
 
-1. Start the MCP server:
-```bash
-python mcp_server.py
-```
-
-2. In a separate terminal, run the client:
+1. In a separate terminal, run the client:
 ```bash
 python mcp_client.py
 ```
 
-3. Enter your SQL queries in natural language
+2. Enter your SQL queries in natural language
+
+Note that you don't need to explicitly run the server, as the client automatically runs it.
 
 ## Project Structure
-
-```
 
 ## Implementation Details
 
